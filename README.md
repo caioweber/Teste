@@ -2,4 +2,4 @@
  Primeiro repositorio versionado - Curso em Vídeo
 
 
-Essa linha eu alterei diretamente no site.
+Essa **linha** eu *alterei* diretamente no site.
